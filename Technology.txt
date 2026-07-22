@@ -1,4 +1,4 @@
-Garvit : Python
-Kshitiz : Python
-Kuldeep : Python
-Pulkit : Python 
+Garvit : Python , programing
+Kshitiz : Python , programing
+Kuldeep : Python, programing
+Pulkit : Python , programing 
